@@ -1,0 +1,139 @@
+---
+sidebar_position: 3
+---
+# Backend Installation
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs defaultValue="local" values={[
+  {label: 'Local Installation', value: 'local'},
+  {label: 'Server /Aapanel Installation', value: 'server'},
+]}>
+
+<TabItem value="local">
+
+
+
+# Local Backend Installation Process
+
+
+## Step 1:
+- First you need to navigate to the backend project folder, then open the terminal and run:
+`yarn install`
+
+![Installation](./img/b1.png)
+
+![Installation](./img/b2.png)
+
+## Step 2:
+- Now, build the project by running the following command: `yarn build`
+
+![Installation](./img/b3.png)
+
+
+
+## Step 3:
+
+- Finally, start the backend server locally with: `yarn dev`
+
+![Installation](./img/b4.png)
+
+Initially, it will show **Database connection failed** after you successfully set up your frontend, the .env file will be automatically created, and it will show **Database connection successfully**.
+
+![Installation](./img/b5.png)
+
+:::tip success
+Now your backend is running locally. You can access it via localhost: `port` .
+:::
+
+
+!![Installation](./img/b6.png)
+
+
+:::tip success
+Now you need to setup your frontend. click here to open frontend installation process Frontend Installation Process
+:::
+
+
+</TabItem>
+
+<TabItem value="server">
+
+
+# Backend Installation Process (Server / AaPanel)
+
+## Step 1:
+
+- Open the terminal. First, you need to deploy the backend to your domain or subdomain. We recommend using a subdomain, such as backend.your_main_domain.com. Zip the backend project files and upload them to your server.
+
+![Installation](./img/b7.png)
+
+## Step 2:
+
+- Go to your servers file manager (AaPanel or similar)
+
+![installation](./img/2bs.png)
+
+## Step 3:
+
+- Now upload the backend.zip file.
+
+![installation](./img/3bs.png)
+
+## Step 4:
+
+- Unzip the uploaded file
+
+![installation](./img/4bs.png)
+
+## Step 5:
+- Open the terminal in your server and run the following command : `sudo yarn`
+
+![installation](./img/6bs.png)
+
+## Step 6:
+
+- Once the installation is complete, you should see the node_modules folder.
+
+![installation](./img/5bs.png)
+
+## Step 7:
+
+- Next, find and click the Website button in your server panel's sidebar.
+
+![installation](./img/7bs.png)
+
+## Step 8:
+
+- Click the Node Project button and then click the **Add Node Project** button.
+
+![installation](./img/8bs.png)
+
+## Step 9:
+
+- Right-click on your file and select the options that appear.
+
+- Click the indicated button to select your folder path, fill in the name (use underscores, no spaces), select the run options, port, and node version. Enter your domain name and click the confirm button to ensure everything is correct.
+
+![installation](./img/9bs.png)
+
+![installation](./img/1bs.png)
+
+## Step 10:
+
+- Click on the SSL button, select the two checkboxes, and apply the settings.
+
+![installation](./img/s9.png)
+
+## Step 11:
+
+- If SSL isn't applied automatically, click to force SSL from the settings menu.
+
+:::tip success
+Your backend is now live and ready to use. Please copy your subdomain URL to integrate with the frontend project, such as backend.your_main_domain.com.
+:::
+
+</TabItem>
+
+</Tabs>
