@@ -11,13 +11,13 @@ sidebar_position: 5
 
 - Based on the landing page's service section design, the services page design should be similar.
 
-![services](./img/s2.png)
+<!-- ![services](./img/s2.png) -->
 
 # how to see a Service detail?
 
 - clicking on the service image you can see the service detail.
 
-![services](./img/s3.png)
+<!-- ![services](./img/s3.png) -->
 
 # Pricing Plan
 
@@ -25,4 +25,4 @@ sidebar_position: 5
 
 - Based on the landing page's price plan section design, the services page pricing card design should be similar.
 
-![pricing plan](./img/p1.png)
+<!-- ![pricing plan](./img/p1.png) -->

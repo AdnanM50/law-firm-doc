@@ -8,4 +8,4 @@ sidebar_position: 19
 
 - Admin can change it according to his requirement.
 
-![faq](./img/ff1.png)
+<!-- ![faq](./img/ff1.png) -->

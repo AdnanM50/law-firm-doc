@@ -9,4 +9,4 @@ sidebar_position: 15
 
 - Admin can change it according to his requirement.
 
-![gallary](./img/c2.png)
+<!-- ![gallary](./img/c2.png) -->

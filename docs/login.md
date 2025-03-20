@@ -11,21 +11,16 @@ sidebar_position: 2
 - **Password:** `123456`
 - **Login URL:** [https://gymstickpro.appstick.com.bd/login](https://gymstickpro.appstick.com.bd/login)
 
-### Vendor
 
-- **Email:** `vendor@gmail.com`
+
+### Attorney
+
+- **Email:** `attorney@gmail.com`
 - **Password:** `123456`
 - **Login URL:** [https://gymstickpro.appstick.com.bd/login](https://gymstickpro.appstick.com.bd/login)
 
 
-### Trainer
-
-- **Email:** `trainer@gmail.com`
-- **Password:** `123456`
-- **Login URL:** [https://gymstickpro.appstick.com.bd/login](https://gymstickpro.appstick.com.bd/login)
-
-
-### Member
+### User
 
 - **Email:** `user@gmail.com`
 - **Password:** `123456`

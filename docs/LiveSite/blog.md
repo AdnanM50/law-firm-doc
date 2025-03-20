@@ -13,5 +13,5 @@ sidebar_position: 12
 
 - clicking on the blogs image you can see the blog detail.
 
-![blog](./img/bd1.png)
+<!-- ![blog](./img/bd1.png) -->
 

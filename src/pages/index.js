@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Gymstick Pro Documentation - 5min ⏱️
+            Lawstick Documentation
           </Link>
         </div>
       </div>
