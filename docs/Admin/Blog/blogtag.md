@@ -23,6 +23,6 @@ sidebar_position: 2
 
 ## Here is how to edit and delete a tag !
 
-- To edit a tag, click on the "Edit" action button. A form will appear where you can edit the tag.After editing the tag, click on the **Submit** button to Submit the tag.To delete a tag, click the **Delete** action button.
+- To edit a tag, click on the **Edit** action button. A form will appear where you can edit the tag.After editing the tag, click on the **Submit** button to Submit the tag.To delete a tag, click the **Delete** action button.
 
 ![tag](./img/t2.png)

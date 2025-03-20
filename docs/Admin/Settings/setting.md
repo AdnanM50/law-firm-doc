@@ -9,4 +9,4 @@ sidebar_position: 1
 
 - Admin can change the settings by his required fields and clicking on the **Submit** button to save the changes.
 
-![Settings](./img/1.png)
+<!-- ![Settings](./img/1.png) -->

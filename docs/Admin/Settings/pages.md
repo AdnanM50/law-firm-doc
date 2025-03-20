@@ -14,7 +14,7 @@ sidebar_position: 6
 
 - The Theme Setting page provides flexibility for the admin to switch between themes and customize the appearance of the website according to their needs and preferences.
 
-![Theme Setting](./img/t.png)
+<!-- ![Theme Setting](./img/t.png) -->
 
 ## Home #
 
@@ -23,7 +23,7 @@ sidebar_position: 6
 - Set the heading, description, and manage images for the about section, including mission, vision.
 
 
-![Home](./img/home.png)
+<!-- ![Home](./img/home.png) -->
 
 ## About Us #
 
@@ -31,23 +31,23 @@ sidebar_position: 6
 - Description : Edit the description to provide an overview of the gyms philosophy and offerings.
 - Image & Text : Edit the text and upload images for the Mission, Vision.
 
-![About Us](./img/a.png)
+<!-- ![About Us](./img/a.png) -->
 
 
 ## Contact Us #
 
 - Contact page : The contact page to provide contact information and a contact form.
 
-![Contact Us](./img/co.png)
+<!-- ![Contact Us](./img/co.png) -->
 
 ## Privacy Policy #
 
 - Privacy Policy: The privacy policy page to provide information about the gyms privacy policy.
 
-![Privacy Policy](./img/p.png)
+<!-- ![Privacy Policy](./img/p.png) -->
 
 ## Terms and Conditions #
 
 - Terms and Conditions: The terms and conditions page to provide information about the gyms terms and conditions.
 
-![Terms and Conditions](./img/tc.png)   
+<!-- ![Terms and Conditions](./img/tc.png)    -->

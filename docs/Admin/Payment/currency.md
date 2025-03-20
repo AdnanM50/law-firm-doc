@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Currency
@@ -9,4 +9,4 @@ sidebar_position: 4
 
 - Admin can delete or edit using the **Action buttons** and see the active status and change status.
 
-![Currency](./img/1.png)
+![Currency](./img/5.png)

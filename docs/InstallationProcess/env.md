@@ -76,7 +76,7 @@ sidebar_position: 2
 ![Installation](./img/10.png) 
 
 
-- Right now, Your Database creation process is done. Just copy the URL from your mongoDB atlas account like the upper image. Now you have to paste the URL in Database String field. Also you have to put company website name like Gymstick.
+- Right now, Your Database creation process is done. Just copy the URL from your mongoDB atlas account like the upper image. Now you have to paste the URL in Database String field. Also you have to put company website name like Lawstick.
 
 ![Installation](./img/11.png) 
 

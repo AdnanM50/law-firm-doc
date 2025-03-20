@@ -20,7 +20,6 @@ sidebar_position: 1
 ![category](./img/c1.png)
 
 
-
 ## Here is how to edit and delete a category !
 
 - To edit a category, click on the **Edit** action button. A form will appear where you can edit the category.After editing the category, click on the **Submit** button to submit the category.To delete a category, click the **Delete** action button.

@@ -6,18 +6,18 @@ sidebar_position: 2
 - Clicking on **Profile**, admin will be able to see his profile details setting.
 
 
-![profile](./img/p.png)
+<!-- ![profile](./img/p.png) -->
 
 ## Profile Details
 
 
-![profile](./img/p1.png)
+<!-- ![profile](./img/p1.png) -->
 
 - Admin can see his profile details like name, email and phone number.
 - By clicking on **Edit Profile**, a form will be displayed where admin can edit his profile details and click on the **Update** button to save the changes.
 
 
-![profile](./img/p2.png)
+<!-- ![profile](./img/p2.png) -->
 
 
 ## How to change admin password ?
@@ -27,4 +27,4 @@ sidebar_position: 2
 - After entering the details, the admin can click on the **Change Password** button to save the changes.
 
 
-![profile](./img/p3.png)
+<!-- ![profile](./img/p3.png) -->

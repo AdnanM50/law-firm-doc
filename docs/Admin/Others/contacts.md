@@ -9,7 +9,7 @@ sidebar_position: 9
 - Admin can delete any user contact using the **Action buttons**.
 - Admin can search a specific user by using the **search bar** .
 
-<!-- image -->
+![Contact](./img/4.png)
 
 
 
@@ -18,4 +18,4 @@ sidebar_position: 9
 - Clicking the **view** button will take the admin to the following window.
 
 
-![Contact](./img/1.png)
+![Contact](./img/5.png)

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Welcome To GymStick Pro
+# Welcome To Lawstick
 
-The ultimate web-based, multi-vendor SaaS module for seamless gym management. With dedicated dashboards for admins, trainers, members, vendors, and employees to manage the admin panel, Gymstick Pro empowers each role to efficiently handle gym activities, from membership and scheduling to personalized training plans. This fully dynamic and customizable platform is perfect for any fitness organization looking to simplify operations and deliver a top-notch experience. Transform how you manage your gym with Gymstick Pro, designed to meet the unique needs of modern fitness centers.
+Lawstick is a legal tech solution that provides a platform for lawyers to manage their clients, cases, and documents. It also allows clients to connect with lawyers, view their case details, and upload documents. The platform also includes a blog section where users can read legal articles and blogs. The platform is designed to be user-friendly and easy to navigate, with a focus on providing a seamless experience for lawyers and clients  ⚖️ .
 
 ## Good to know before starting
 
