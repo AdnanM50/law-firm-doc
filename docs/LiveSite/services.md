@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 
@@ -7,22 +7,40 @@ sidebar_position: 5
 
 - In this section, anyone can see all services, here all the sections are dynamic. admin can change it according to his requirement.
 
-- To clicking the Read More button to go to the Services details page.
+- To clicking the arrow icon to go to the Services details page.
 
 - Based on the landing page's service section design, the services page design should be similar.
 
-<!-- ![services](./img/s2.png) -->
+![services](./img/s.png)
 
 # how to see a Service detail?
 
 - clicking on the service image you can see the service detail.
 
-<!-- ![services](./img/s3.png) -->
+![services](./img/s2.png)
 
-# Pricing Plan
+## Trusted  clients
 
-- In this section, anyone can see the pricing plan section photo and content, here all the sections are dynamic. admin can change it according to his requirement.
+- In this section, uses can see all of the Clients
 
-- Based on the landing page's price plan section design, the services page pricing card design should be similar.
+- Admin can change it according to his requirement.
 
-<!-- ![pricing plan](./img/p1.png) -->
+![clients](./img/cl.png)
+
+
+## Contact
+
+
+- In this section, anyone can see the contact section photo and content, here all the sections are dynamic.
+
+- Admin can change it according to his requirement.
+ 
+
+![gallary](./img/c.png)
+
+
+## Team
+
+- In this section, uses can see all of the Trainers
+
+![pricing plan](./img/t1.png)

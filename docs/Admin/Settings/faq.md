@@ -8,13 +8,13 @@ sidebar_position: 5
 
 - In this section, the admin will be able to see a list of FAQs.
 
-<!-- ![FAQ](./img/9.png) -->
+![FAQ](./img/8.png)
 
 ## Here is to add a new FAQ !
 
 - To add a new FAQ, click on the **Add New** button. A form will appear where you can add a new FAQ. You can add tag multiple laguages .After adding the FAQ, click on the Submit button to Submit the FAQ.
 
-<!-- ![Add FAQ](./img/10.png) -->
+![Add FAQ](./img/9.png)
 
 ## Here is to edit and delete FAQ !
 
@@ -22,4 +22,7 @@ sidebar_position: 5
 
 - To delete a FAQ, click on the **Delete**action button.
 
-<!-- ![Edit FAQ](./img/11.png) -->
+![Edit FAQ](./img/10.png)
+
+
+![Edit FAQ](./img/11.png)

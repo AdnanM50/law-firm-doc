@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 5
 ---
 
 # Contact
@@ -10,3 +10,12 @@ sidebar_position: 15
 - Admin can change it according to his requirement.
 
 <!-- ![gallary](./img/c2.png) -->
+
+
+## Trusted  clients
+
+- In this section, uses can see all of the Clients
+
+- Admin can change it according to his requirement.
+
+![clients](./img/cl.png)

@@ -9,4 +9,4 @@ sidebar_position: 16
 
 - Admin can change it according to his requirement.
 
-<!-- ![privacy](./img/pry.png) -->
+![privacy](./img/p.png)

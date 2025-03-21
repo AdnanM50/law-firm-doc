@@ -6,19 +6,19 @@ sidebar_position: 1
 # Home 
 
 ## Hero Section
-- In this section, uses can see the hero section with video and content, here all the sections are dynamic.
+- In this section, uses can see the hero section with photo and content, here all the sections are dynamic.
 - Admin can change it according to his requirement.
-- To clicking the **Start your journey** button to go to the services page and see all services.
-- To clicking the **Contact Us** button to go to the contact page and you can contact with us.
+- To clicking the **Get Appointment** button have two behaviour, if user is Unauthenticated then it is redirected to the sign-in modal and if user is Authenticated then it is redirected to the attorney page to make an appointment.
 
-<!-- ![Hero](./img/h1.png) -->
+
+![Hero](./img/1.png)
 
 ## About Us
 - In this section, users can see the about us section with photo and content, here all the sections are dynamic.
 - Admin can change it according to his requirement.
-- To clicking the **service** button to go to the services page and see all services.
+- To clicking the **Read More** button to go to the about page and see all about us.
 
-<!-- ![About Us](./img/a1.png) -->
+![About Us](./img/a1.png)
 
 
 
@@ -26,60 +26,50 @@ sidebar_position: 1
 
 - In this section, uses can see the services section photo and content, here all the sections are dynamic.
 - Admin can change it according to your requirement.
-- To clicking the service name to go to the Service detail page.
+- To clicking the service name or arrow icon to go to the Service detail page.
 - To clicking the **All Service** button to go to the services page and see all services.
 
-<!-- ![Services](./img/s1.png) -->
+![Services](./img/s1.png)
 
-
-
-
-## BMI
-- In this section, in here uses can calculate their BMI according to their height, age and weight.
-
-<!-- ![BMI](./img/bm1.png) -->
-
-
-
-## Class Schedule
-
-
-- In this section, uses can see the class schedule , here all the sections are dynamic.
-
-- Admin can change it according to his requirement.
-
-<!-- ![Class Schedule](./img/sh1.png) -->
-
-
-
-
-## Pricing Plan
-
-- In this section, uses can see the pricing plan section , here all the sections are dynamic.
-- Admin can change it according to his requirement.
-- To clicking the Get Started button if user is Unauthenticated then it is redirected to the sign-in page.
-- To clicking the Get Started button if user is Authenticated and role is trainer or admin then it will show As a trainer or admin, you do not need to buy a subscription.
-- To clicking the Get Started button if user is Authenticated and role is user then it is redirected to the subscription page.
-
-<!-- ![pp](./img/px1.png) -->
 
 ## Testimonial
 
 - In this section, members can see the testimonial .
 
-<!-- ![tt](./img/t1.png) -->
+![tt](./img/tt1.png)
 
 ## Team
 
 - In this section, uses can see all of the Trainers
 
-<!-- ![pricing plan](./img/pp.png) -->
+![pricing plan](./img/t1.png)
 
 
-## Shop
-- In this section, anyone can see the shop section with all the products, here all the sections are dynamic.
+## case study
 
-<!-- ![ss](./img/s23.png) -->
+- In this section, uses can see all of the Case Studies
+- Clicking the case study name or **Read More** button to go to the Case Study details page.
+- Admin can change it according to your requirement.
+
+<!-- ![case study](./img/c1.png) -->
+
+
+## FAQ
+- In this section, anyone can see the FAQ section, here all the sections are dynamic.
+
+- Admin can change it according to his requirement.
+
+![faq](./img/f1.png)
+
+## Contact
+
+
+- In this section, anyone can see the contact section photo and content, here all the sections are dynamic.
+
+- Admin can change it according to his requirement.
+ 
+
+![gallary](./img/c.png)
 
 ## Blog
 - In this section, uses can see all of the Blogs
