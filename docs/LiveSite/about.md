@@ -20,7 +20,7 @@ sidebar_position: 2
 
 ## Team
 
-- In this section, uses can see all of the Trainers
+- In this section, uses can see all of the attorneys
 
 ![pricing plan](./img/t1.png)
 

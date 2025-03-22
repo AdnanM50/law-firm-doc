@@ -8,4 +8,4 @@ sidebar_position: 17
 
 - Admin can change it according to his requirement.
 
-![terms](./img/t.png)
+![terms](./img/t.png) 

@@ -40,7 +40,7 @@ sidebar_position: 1
 
 ## Team
 
-- In this section, uses can see all of the Trainers
+- In this section, uses can see all of the attorneys
 
 ![pricing plan](./img/t1.png)
 
@@ -51,7 +51,7 @@ sidebar_position: 1
 - Clicking the case study name or **Read More** button to go to the Case Study details page.
 - Admin can change it according to your requirement.
 
-<!-- ![case study](./img/c1.png) -->
+![case study](./img/cc.png)
 
 
 ## FAQ
@@ -72,8 +72,9 @@ sidebar_position: 1
 ![gallary](./img/c.png)
 
 ## Blog
+
 - In this section, uses can see all of the Blogs
 - Clicking the blog name button to go to the Blog details page.
 
-<!-- ![bb](./img/b1.png) -->
+![bb](./img/b.png)
 

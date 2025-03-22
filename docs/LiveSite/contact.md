@@ -9,7 +9,7 @@ sidebar_position: 5
 
 - Admin can change it according to his requirement.
 
-<!-- ![gallary](./img/c2.png) -->
+![gallary](./img/co.png)
 
 
 ## Trusted  clients
