@@ -10,6 +10,12 @@ sidebar_position: 7
 
 ![pricing plan](./img/tt.png)
 
+# Here is how to see a Attorney detail?
+
+- clicking on the attorneys name you can see the attorneys detail.
+
+![pricing plan](./img/temd.png)
+
 
 ## Trusted  clients
 
@@ -18,3 +24,6 @@ sidebar_position: 7
 - Admin can change it according to his requirement.
 
 ![clients](./img/cl.png)
+
+
+![clients](./img/ap1.png)
