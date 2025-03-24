@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome To Lawstick
 
-Lawstick is a legal tech solution that provides a platform for lawyers to manage their clients, cases, and documents. It also allows clients to connect with lawyers, view their case details, and upload documents. The platform also includes a blog section where users can read legal articles and blogs. The platform is designed to be user-friendly and easy to navigate, with a focus on providing a seamless experience for lawyers and clients  ⚖️ .
+Lawstick is a legal tech solution that provides a platform for lawyers to manage their clients, cases, and documents. It also allows clients to connect with lawyers, view their case details, and upload documents. The platform also includes a blog section where users can read legal articles and blogs. The platform is designed to be user-friendly and easy to navigate, with a focus on providing a seamless experience for lawyers and clients    ⚖️ .
 
 ## Good to know before starting
 
