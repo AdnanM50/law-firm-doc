@@ -10,6 +10,8 @@ sidebar_position: 4
 
 
 ## Here is how you can add a new attorney !
+
+
 - In this section, the admin will be able to add attorneys and by clicking the **Add Attorney** button, you can add a new attorney.
 
 <!-- ![Add Trainer](./img/2.png) -->
