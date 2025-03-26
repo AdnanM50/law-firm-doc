@@ -16,6 +16,20 @@ sidebar_position: 4
 
 - To book an appointment, click on the **Book Now** button.
 
-- If user is Unauthenticated then it is redirected to the sign-in modal and if user is Authenticated then it is redirected to the attorney page to make an appointment.
+- A calendar will appear, select the date and time for the appointment and click on the **continue** button.
 
 ![attorneys](./img/3.png)
+![attorneys](./img/5.png)
+
+- After that, fill in the case information and give your evidence .
+
+![attorneys](./img/1.png)
+
+- Now, select on the payment method and click on the **continue** button you will see a confirmation modal and click on **Send case Request** to send the case request.
+
+- Now, you will redirect to your payment page to make the payment.
+
+![attorneys](./img/6.png)
+
+
+![attorneys](./img/7.png)
