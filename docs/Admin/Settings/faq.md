@@ -20,7 +20,7 @@ sidebar_position: 5
 
 - To edit a FAQ, click on the **Edit** button. A form will appear where you can edit the FAQ. After editing the FAQ, click on the **Submit** button to Submit the FAQ.
 
-- To delete a FAQ, click on the **Delete**action button.
+- To delete a FAQ, click on the **Delete** action button.
 
 ![Edit FAQ](./img/10.png)
 

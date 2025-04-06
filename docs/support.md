@@ -40,4 +40,4 @@ If you require technical support, have questions about our services, or simply w
 
 ---
 
-Thank you for choosing **lawstick**! We look forward to assisting you. 🚗✨
+Thank you for choosing **lawstick**! We look forward to assisting you. ⚖️✨
