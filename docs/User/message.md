@@ -5,9 +5,11 @@ sidebar_position: 4
 
 # Messages
 
-- In this section, attorneys can see all of the messages.
+- In this section, users can see all of the messages.
 
-- Every attorney message section have defult chat option of Admin support.
+- Every user message section have default chat option of Admin support.
+
+- The user can send messages to any attorney.
 
 <!-- ![msg](./img/6.png) -->
 
