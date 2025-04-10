@@ -29,7 +29,5 @@ sidebar_position: 2
 
 - Now, you will redirect to your payment page to make the payment.
 
-![attorneys](./img/6.png)
+![attorneys](./img/9.png)
 
-
-![attorneys](./img/7.png)

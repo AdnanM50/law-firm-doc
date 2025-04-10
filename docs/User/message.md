@@ -9,32 +9,32 @@ sidebar_position: 4
 
 - Every user message section have default chat option of Admin support.
 
-- The user can send messages to any attorney.
+- The user can send messages to any user.
 
-<!-- ![msg](./img/6.png) -->
+![msg](./img/m.png)
 
 
 # Here is how to search for any user !
 
-- The attorney can search for a specific user  by using the **search bar**.
+- The user can search for a specific user  by using the **search bar**.
 
-<!-- ![msg](./img/7.png) -->
+![msg](./img/m1.png)
 
 
 # Here is how to delete a messages and upload files !
 
-- The attorney can delete a specific message by clicking on the delete icon.
+- The user can delete a specific message by clicking on the delete icon.
 
-<!-- ![msg](./img/8.png) -->
+![msg](./img/m2.png)
 
-- The attorney can upload a file by clicking the upload file icon.
+- The user can upload a file by clicking the upload file icon.
 
-<!-- ![msg](./img/10.png) -->
+![msg](./img/m3.png)
 
-- The member can upload pictures by clicking the picture icon.
+- The user can upload pictures by clicking the picture icon.
 
-<!-- ![msg](./img/9.png) -->
+![msg](./img/m4.png)
 
-- The attorney can send a message by clicking the send icon.
+- The user can send a message by clicking the send icon.
 
-<!-- ![msg](./img/11.png) -->
+![msg](./img/m5.png)

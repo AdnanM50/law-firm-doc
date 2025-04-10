@@ -12,4 +12,4 @@ sidebar_position: 4
 
 - clicking on the **complete** button to complete that case request.
 
-![Booking](./img/5.png)
+![Booking](./img/12.png)
