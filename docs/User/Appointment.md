@@ -11,3 +11,5 @@ sidebar_position: 3
 ![Appointment](./img/12.png)
 
 ![Appointment](./img/13.png)
+
+- The meeting link will be available in your appointment history 10 minutes before the meeting starts.
